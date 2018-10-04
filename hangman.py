@@ -79,7 +79,7 @@ def hangman_graphic(guesses):
 words=["refrigerator","Conservatorium","autosuggestionist","giovanni","outrivalled"
  		"mastoparietal", "diakonikon","overdredge","irresoluteness","liverishness"
  		"downer","spoilt","exsiccator", 
- 		"synechia","nonpromiscuous"] 
+ 		"synechia","nonpromiscuous", "procrastinator", "ruthlessness", "bewilderment"] 
 word=random.choice(words)
 #print word
 abc=int(len(word))
